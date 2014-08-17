@@ -1,4 +1,5 @@
 # Goals: ARMA modeling - estimation, diagnostics, forecasting.
+# Ok.
 
 
 # 0. SETUP DATA
